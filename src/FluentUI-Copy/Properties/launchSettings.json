@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FluentUI system Icons Copier App": {
+      "commandName": "Project",
+      "commandLineArgs": "-i badge24Regular -d D:\\Projects\\test -n test.svg"
+    }
+  }
+}
